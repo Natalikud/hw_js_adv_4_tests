@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint --fix --ext .js,.jsx .",
-    "test": "jest --coverage",
+    "test": "jest --coverage"
   },
   "author": "",
   "license": "ISC",
